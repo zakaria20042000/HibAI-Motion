@@ -1,0 +1,7 @@
+# keep only the config and the rendered result
+*
+!.gitignore
+!proj/
+!proj/motions.json
+!proj/fx/
+!proj/fx/01.mp4
